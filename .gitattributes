@@ -4,3 +4,4 @@
 *.json linguist-language=python
 *.text linguist-language=python
 *.xlsx linguist-language=python
+*.eps linguist-language=python
