@@ -3,3 +3,4 @@
 *.html linguist-language=python
 *.json linguist-language=python
 *.text linguist-language=python
+*.xlsx linguist-language=python
